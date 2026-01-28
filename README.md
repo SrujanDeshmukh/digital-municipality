@@ -15,6 +15,5 @@ Quickstart (local)
 
 CI/CD
 - GitHub Actions builds backend & frontend images and pushes to GHCR.
-- To enable cluster deployment, set `KUBE_CONFIG_DATA` secret with base64(kubeconfig).
 
-License: MIT
+- To enable cluster deployment, set `KUBE_CONFIG_DATA` secret with base64(kubeconfig).
